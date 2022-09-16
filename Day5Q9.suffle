@@ -1,0 +1,11 @@
+a=int(input("Enter the number of elements of 11:"))
+b=[]
+for i in range(a):
+    c=int(input("Enter element:"))
+    b.append(c)
+a1=int(input("Enter the number of elements of 11:"))
+b1=[]
+for i in range(a1):
+    c1=int(input("Enter element:"))
+    b1.append(c1)
+for i in 9
